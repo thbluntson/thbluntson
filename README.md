@@ -1,5 +1,11 @@
 ## Hi there 👋
+## My name is Timina and I'm an aspiring worker within the field of data! Here will be a portfolio of examples that I work on and practice with.
 
+## I'm currently working on: 
+## My to do list of projects are:
+##    -
+##    -
+##    -
 <!--
 **thbluntson/thbluntson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
