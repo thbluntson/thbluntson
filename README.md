@@ -1,5 +1,5 @@
-## Hi there 👋
-## My name is Timina and I'm an aspiring worker within the field of data! Here will be a portfolio of examples that I work on and practice with.
+## Introducing Myself👋
+## Hello, my name is Timina and I'm an aspiring worker within the field of data! Here will be a portfolio of examples that I work on and practice with.
 
 ## I'm currently working on: 
 ## My to do list of projects are:
